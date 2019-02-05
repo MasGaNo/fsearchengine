@@ -116,4 +116,5 @@ export class AutocompleteLocations extends FSearchEngine<ILocation> {
  * [ ] Implement the duplicate token from document to reduce number of duplicate matching
  * [ ] Memoize the validator creation to avoid too many `function` creation (`tokenizer.ts`)
  * [ ] Add custom scoring based on some attributes of documents (popularity attribute, ...)
+ * [ ] Provide a way to search into different fields of the model
  * [ ] Provide a way to configure matching rules (boolean operator, must, should, ...)
