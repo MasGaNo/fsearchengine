@@ -91,7 +91,8 @@ module.exports=[
             "name": "Dubai Marina",
             "path": "1.50",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -101,7 +102,8 @@ module.exports=[
             "name": "Downtown Dubai",
             "path": "1.41",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -121,7 +123,8 @@ module.exports=[
             "name": "Palm Jumeirah",
             "path": "1.86",
             "path_name": "Dubai",
-            "abbreviation": "The Palm Jumeirah"
+            "abbreviation": "The Palm Jumeirah",
+            "score": 5
         }
     },
     {
@@ -131,7 +134,8 @@ module.exports=[
             "name": "Jumeirah Village Circle",
             "path": "1.73",
             "path_name": "Dubai",
-            "abbreviation": "JVC"
+            "abbreviation": "JVC",
+            "score": 5
         }
     },
     {
@@ -141,7 +145,8 @@ module.exports=[
             "name": "Jumeirah Lake Towers",
             "path": "1.71",
             "path_name": "Dubai",
-            "abbreviation": "JLT"
+            "abbreviation": "JLT",
+            "score": 5
         }
     },
     {
@@ -151,7 +156,8 @@ module.exports=[
             "name": "Al Reem Island",
             "path": "6.279",
             "path_name": "Abu Dhabi",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -181,7 +187,8 @@ module.exports=[
             "name": "Jumeirah Beach Residence",
             "path": "1.67",
             "path_name": "Dubai",
-            "abbreviation": "JBR"
+            "abbreviation": "JBR",
+            "score": 5
         }
     },
     {
@@ -191,7 +198,8 @@ module.exports=[
             "name": "Dubai Sports City",
             "path": "1.55",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -221,7 +229,8 @@ module.exports=[
             "name": "Jumeirah",
             "path": "1.66",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -231,7 +240,8 @@ module.exports=[
             "name": "Dubai Hills Estate",
             "path": "1.105",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -241,7 +251,8 @@ module.exports=[
             "name": "Dubai Silicon Oasis",
             "path": "1.54",
             "path_name": "Dubai",
-            "abbreviation": "DSO"
+            "abbreviation": "DSO",
+            "score": 5
         }
     },
     {
@@ -261,7 +272,8 @@ module.exports=[
             "name": "Mohammed Bin Rashid City",
             "path": "1.104",
             "path_name": "Dubai",
-            "abbreviation": "MBR"
+            "abbreviation": "MBR",
+            "score": 5
         }
     },
     {
@@ -291,7 +303,8 @@ module.exports=[
             "name": "Arabian Ranches",
             "path": "1.34",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -301,7 +314,8 @@ module.exports=[
             "name": "DAMAC Hills (Akoya by DAMAC)",
             "path": "1.129",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -321,7 +335,8 @@ module.exports=[
             "name": "Al Barsha",
             "path": "1.13",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -341,7 +356,8 @@ module.exports=[
             "name": "Al Furjan",
             "path": "1.14",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -381,7 +397,8 @@ module.exports=[
             "name": "Burj Vista",
             "path": "1.41.620",
             "path_name": "Dubai, Downtown Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -391,7 +408,8 @@ module.exports=[
             "name": "International City",
             "path": "1.63",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -401,7 +419,8 @@ module.exports=[
             "name": "Mudon",
             "path": "1.8250",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -411,7 +430,8 @@ module.exports=[
             "name": "Jumeirah Golf Estates",
             "path": "1.68",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -421,7 +441,8 @@ module.exports=[
             "name": "Arabian Ranches 2",
             "path": "1.8899",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -431,7 +452,8 @@ module.exports=[
             "name": "Town Square",
             "path": "1.131",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -441,7 +463,8 @@ module.exports=[
             "name": "Shoreline Apartments",
             "path": "1.86.1197",
             "path_name": "Dubai, Palm Jumeirah",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -451,7 +474,8 @@ module.exports=[
             "name": "The Springs",
             "path": "1.89",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -471,7 +495,8 @@ module.exports=[
             "name": "Al Reef",
             "path": "6.278",
             "path_name": "Abu Dhabi",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -481,7 +506,8 @@ module.exports=[
             "name": "Saadiyat Island",
             "path": "6.310",
             "path_name": "Abu Dhabi",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -534,7 +560,8 @@ module.exports=[
             "name": "Motor City",
             "path": "1.80",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -574,7 +601,8 @@ module.exports=[
             "name": "Jumeirah Park",
             "path": "1.72",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -614,7 +642,8 @@ module.exports=[
             "name": "Greens",
             "path": "1.60",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -624,7 +653,8 @@ module.exports=[
             "name": "City Walk",
             "path": "1.9529",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -634,7 +664,8 @@ module.exports=[
             "name": "The Villa",
             "path": "1.114",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -654,7 +685,8 @@ module.exports=[
             "name": "Jumeirah Village Triangle",
             "path": "1.74",
             "path_name": "Dubai",
-            "abbreviation": "JVT"
+            "abbreviation": "JVT",
+            "score": 5
         }
     },
     {
@@ -674,7 +706,8 @@ module.exports=[
             "name": "Discovery Gardens",
             "path": "1.40",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -704,7 +737,8 @@ module.exports=[
             "name": "Mira Oasis",
             "path": "1.101.1310",
             "path_name": "Dubai, Reem",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -754,7 +788,8 @@ module.exports=[
             "name": "Old Town",
             "path": "1.84",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -774,7 +809,8 @@ module.exports=[
             "name": "Meadows",
             "path": "1.76",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -784,7 +820,8 @@ module.exports=[
             "name": "Executive Towers",
             "path": "1.36.514",
             "path_name": "Dubai, Business Bay",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -844,7 +881,8 @@ module.exports=[
             "name": "Burj Khalifa",
             "path": "1.41.604.2710",
             "path_name": "Dubai, Downtown Dubai, Burj Khalifa Area",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         },
         "links": {
             "building_reviews": "\/en\/building-reviews\/dubai\/downtown-dubai-burj-khalifa-area-burj-khalifa.html"
@@ -900,7 +938,8 @@ module.exports=[
             "name": "The Hills",
             "path": "1.103",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -920,7 +959,8 @@ module.exports=[
             "name": "District One",
             "path": "1.104.1319",
             "path_name": "Dubai, Mohammed Bin Rashid City",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1103,7 +1143,8 @@ module.exports=[
             "name": "Bluewaters",
             "path": "1.9042",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1246,7 +1287,8 @@ module.exports=[
             "name": "Jumeirah Islands",
             "path": "1.70",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1316,7 +1358,8 @@ module.exports=[
             "name": "Green Community",
             "path": "1.61",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1402,7 +1445,8 @@ module.exports=[
             "name": "Al Barari",
             "path": "1.12",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1442,7 +1486,8 @@ module.exports=[
             "name": "The Lakes",
             "path": "1.93",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1472,7 +1517,8 @@ module.exports=[
             "name": "Emirates Hills",
             "path": "1.58",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1863,7 +1909,8 @@ module.exports=[
             "name": "Sidra Villas",
             "path": "1.105.8263",
             "path_name": "Dubai, Dubai Hills Estate",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -2112,7 +2159,8 @@ module.exports=[
             "name": "Victory Heights",
             "path": "1.55.810",
             "path_name": "Dubai, Dubai Sports City",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -3205,7 +3253,8 @@ module.exports=[
             "name": "Saheel",
             "path": "1.34.479",
             "path_name": "Dubai, Arabian Ranches",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -77910,14 +77959,19 @@ var FSearchEngine = /** @class */ (function () {
             Promise.resolve().then(function () {
                 var result = new Set();
                 pendingResult.forEach(function (pendingDocument) {
-                    result.add({
+                    var document = {
                         item: pendingDocument.item,
                         score: pendingDocument.score
-                    });
+                    };
+                    document.score = _this.customScoreFunction(document);
+                    result.add(document);
                 });
                 resolve(result);
             });
         });
+    };
+    FSearchEngine.prototype.customScoreFunction = function (data) {
+        return data.score;
     };
     FSearchEngine.prototype.query = function (input) {
         var _this = this;
@@ -78021,6 +78075,9 @@ var AutocompleteLocations = /** @class */ (function (_super) {
     AutocompleteLocations.prototype.getValueOfItem = function (item) {
         return item.attributes.name;
     };
+    AutocompleteLocations.prototype.customScoreFunction = function (data) {
+        return data.score * (data.item.attributes.score || 1);
+    };
     return AutocompleteLocations;
 }(fsearchengine_1.FSearchEngine));
 exports.AutocompleteLocations = AutocompleteLocations;
@@ -78052,6 +78109,10 @@ exports.AutocompleteLocations = AutocompleteLocations;
             });
             console.timeEnd(timeLabel);
             dispatchResult(arrResult);
+            var item = arrResult.find(function (item) { return item.item.attributes.name === 'Dubai Marina'; });
+            if (!!item) {
+                console.log(arrResult.indexOf(item), item);
+            }
         });
     };
     var ulResults = document.querySelector('#output');

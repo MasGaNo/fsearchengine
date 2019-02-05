@@ -10,6 +10,7 @@ export interface ILocation {
         "path": string;
         "path_name": string;
         "abbreviation": string;
+        "score"?: number;
     }
 }
 
@@ -20,6 +21,10 @@ export class AutocompleteLocations extends FSearchEngine<ILocation> {
 
     protected getValueOfItem(item: ILocation): string {
         return item.attributes.name;
+    }
+
+    protected customScoreFunction(data: IDocumentItem<ILocation>) {
+        return data.score * (data.item.attributes.score || 1);
     }
 
 }
@@ -57,6 +62,11 @@ export class AutocompleteLocations extends FSearchEngine<ILocation> {
 
             console.timeEnd(timeLabel);
             dispatchResult(arrResult);
+
+            const item = arrResult.find((item) => item.item.attributes.name === 'Dubai Marina');
+            if (!!item) {
+                console.log(arrResult.indexOf(item), item);
+            } 
         });
     };
 

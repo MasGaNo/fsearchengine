@@ -26,7 +26,8 @@
             "name": "Dubai Marina",
             "path": "1.50",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -36,7 +37,8 @@
             "name": "Downtown Dubai",
             "path": "1.41",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -56,7 +58,8 @@
             "name": "Palm Jumeirah",
             "path": "1.86",
             "path_name": "Dubai",
-            "abbreviation": "The Palm Jumeirah"
+            "abbreviation": "The Palm Jumeirah",
+"score": 5
         }
     },
     {
@@ -66,7 +69,8 @@
             "name": "Jumeirah Village Circle",
             "path": "1.73",
             "path_name": "Dubai",
-            "abbreviation": "JVC"
+            "abbreviation": "JVC",
+            "score": 5
         }
     },
     {
@@ -76,7 +80,8 @@
             "name": "Jumeirah Lake Towers",
             "path": "1.71",
             "path_name": "Dubai",
-            "abbreviation": "JLT"
+            "abbreviation": "JLT",
+            "score": 5
         }
     },
     {
@@ -86,7 +91,8 @@
             "name": "Al Reem Island",
             "path": "6.279",
             "path_name": "Abu Dhabi",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -116,7 +122,8 @@
             "name": "Jumeirah Beach Residence",
             "path": "1.67",
             "path_name": "Dubai",
-            "abbreviation": "JBR"
+            "abbreviation": "JBR",
+            "score": 5
         }
     },
     {
@@ -126,7 +133,8 @@
             "name": "Dubai Sports City",
             "path": "1.55",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -156,7 +164,8 @@
             "name": "Jumeirah",
             "path": "1.66",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -166,7 +175,8 @@
             "name": "Dubai Hills Estate",
             "path": "1.105",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -176,7 +186,8 @@
             "name": "Dubai Silicon Oasis",
             "path": "1.54",
             "path_name": "Dubai",
-            "abbreviation": "DSO"
+            "abbreviation": "DSO",
+            "score": 5
         }
     },
     {
@@ -196,7 +207,8 @@
             "name": "Mohammed Bin Rashid City",
             "path": "1.104",
             "path_name": "Dubai",
-            "abbreviation": "MBR"
+            "abbreviation": "MBR",
+            "score": 5
         }
     },
     {
@@ -226,7 +238,8 @@
             "name": "Arabian Ranches",
             "path": "1.34",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -236,7 +249,8 @@
             "name": "DAMAC Hills (Akoya by DAMAC)",
             "path": "1.129",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -256,7 +270,8 @@
             "name": "Al Barsha",
             "path": "1.13",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -276,7 +291,8 @@
             "name": "Al Furjan",
             "path": "1.14",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -316,7 +332,8 @@
             "name": "Burj Vista",
             "path": "1.41.620",
             "path_name": "Dubai, Downtown Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -326,7 +343,8 @@
             "name": "International City",
             "path": "1.63",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -336,7 +354,8 @@
             "name": "Mudon",
             "path": "1.8250",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -346,7 +365,8 @@
             "name": "Jumeirah Golf Estates",
             "path": "1.68",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -356,7 +376,8 @@
             "name": "Arabian Ranches 2",
             "path": "1.8899",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -366,7 +387,8 @@
             "name": "Town Square",
             "path": "1.131",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -376,7 +398,8 @@
             "name": "Shoreline Apartments",
             "path": "1.86.1197",
             "path_name": "Dubai, Palm Jumeirah",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -386,7 +409,8 @@
             "name": "The Springs",
             "path": "1.89",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -406,7 +430,8 @@
             "name": "Al Reef",
             "path": "6.278",
             "path_name": "Abu Dhabi",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -416,7 +441,8 @@
             "name": "Saadiyat Island",
             "path": "6.310",
             "path_name": "Abu Dhabi",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -469,7 +495,8 @@
             "name": "Motor City",
             "path": "1.80",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -509,7 +536,8 @@
             "name": "Jumeirah Park",
             "path": "1.72",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -549,7 +577,8 @@
             "name": "Greens",
             "path": "1.60",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -559,7 +588,8 @@
             "name": "City Walk",
             "path": "1.9529",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -569,7 +599,8 @@
             "name": "The Villa",
             "path": "1.114",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -589,7 +620,8 @@
             "name": "Jumeirah Village Triangle",
             "path": "1.74",
             "path_name": "Dubai",
-            "abbreviation": "JVT"
+            "abbreviation": "JVT",
+            "score": 5
         }
     },
     {
@@ -609,7 +641,8 @@
             "name": "Discovery Gardens",
             "path": "1.40",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -639,7 +672,8 @@
             "name": "Mira Oasis",
             "path": "1.101.1310",
             "path_name": "Dubai, Reem",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -689,7 +723,8 @@
             "name": "Old Town",
             "path": "1.84",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -709,7 +744,8 @@
             "name": "Meadows",
             "path": "1.76",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -719,7 +755,8 @@
             "name": "Executive Towers",
             "path": "1.36.514",
             "path_name": "Dubai, Business Bay",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -779,7 +816,8 @@
             "name": "Burj Khalifa",
             "path": "1.41.604.2710",
             "path_name": "Dubai, Downtown Dubai, Burj Khalifa Area",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         },
         "links": {
             "building_reviews": "\/en\/building-reviews\/dubai\/downtown-dubai-burj-khalifa-area-burj-khalifa.html"
@@ -835,7 +873,8 @@
             "name": "The Hills",
             "path": "1.103",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -855,7 +894,8 @@
             "name": "District One",
             "path": "1.104.1319",
             "path_name": "Dubai, Mohammed Bin Rashid City",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1038,7 +1078,8 @@
             "name": "Bluewaters",
             "path": "1.9042",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1181,7 +1222,8 @@
             "name": "Jumeirah Islands",
             "path": "1.70",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1251,7 +1293,8 @@
             "name": "Green Community",
             "path": "1.61",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1337,7 +1380,8 @@
             "name": "Al Barari",
             "path": "1.12",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1377,7 +1421,8 @@
             "name": "The Lakes",
             "path": "1.93",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1407,7 +1452,8 @@
             "name": "Emirates Hills",
             "path": "1.58",
             "path_name": "Dubai",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -1798,7 +1844,8 @@
             "name": "Sidra Villas",
             "path": "1.105.8263",
             "path_name": "Dubai, Dubai Hills Estate",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -2047,7 +2094,8 @@
             "name": "Victory Heights",
             "path": "1.55.810",
             "path_name": "Dubai, Dubai Sports City",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {
@@ -3140,7 +3188,8 @@
             "name": "Saheel",
             "path": "1.34.479",
             "path_name": "Dubai, Arabian Ranches",
-            "abbreviation": ""
+            "abbreviation": "",
+            "score": 5
         }
     },
     {

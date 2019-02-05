@@ -190,15 +190,21 @@ export abstract class FSearchEngine<T, S extends IScoreData = IScoreData> {
             Promise.resolve().then(() => {
                 const result = new Set<IDocumentItem<T>>();
                 pendingResult.forEach((pendingDocument) => {
-                    result.add({
+                    const document = {
                         item: pendingDocument.item,
                         score: pendingDocument.score
-                    });
+                    };
+                    document.score = this.customScoreFunction(document);
+                    result.add(document);
                 });
 
                 resolve(result);
             });
         });
+    }
+
+    protected customScoreFunction(data: IDocumentItem<T>) {
+        return data.score;
     }
 
     public query(input: string): Promise<Set<IDocumentItem<T>>> {
