@@ -1,0 +1,31 @@
+{
+  "name": "fsearchengine",
+  "version": "1.0.0",
+  "description": "Basic JavaScript Search Engine",
+  "main": "index.js",
+  "scripts": {
+    "build:js": "NODE_PATH=./build browserify ./build/index.js -o ./dist/build.js",
+    "start": "npm run watch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "concurrently \" npm run watch:ts \" \"sleepms 5000 && npm run watch:js \"",
+    "watch:js": "watch \" npm run build:js \" ./build --filter=watchfilter.js",
+    "watch:ts": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasGaNo/fsearchengine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasGaNo/fsearchengine/issues"
+  },
+  "homepage": "https://github.com/MasGaNo/fsearchengine#readme",
+  "devDependencies": {
+    "browserify": "16.2.3",
+    "concurrently": "4.1.0",
+    "sleep-ms": "2.0.1",
+    "typescript": "^3.3.1",
+    "watch": "1.0.2"
+  }
+}
