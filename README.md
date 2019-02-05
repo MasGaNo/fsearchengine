@@ -118,3 +118,4 @@ export class AutocompleteLocations extends FSearchEngine<ILocation> {
  * [ ] Add custom scoring based on some attributes of documents (popularity attribute, ...)
  * [ ] Provide a way to search into different fields of the model
  * [ ] Provide a way to configure matching rules (boolean operator, must, should, ...)
+ * [ ] Add some additional feature like highlight, ...
